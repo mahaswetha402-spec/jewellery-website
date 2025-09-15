@@ -80,9 +80,9 @@
 <div class="container my-5">
   <h2 class="mb-3">Trending Looks</h2>
   <div class="d-flex overflow-auto trending">
-    <video src="look1.mp4" autoplay muted loop></video>
-    <video src="look2.mp4" autoplay muted loop></video>
-    <video src="look3.mp4" autoplay muted loop></video>
+    <video src="C:\Users\newba\Downloads\video.mp4" autoplay muted loop></video>
+    <video src="C:\Users\newba\OneDrive\文件\vedio2.mp4" autoplay muted loop></video>
+    <video src="C:\Users\newba\OneDrive\文件\vedio3.mp4" autoplay muted loop></video>
   </div>
 </div>
 
@@ -98,6 +98,7 @@
         <button class="btn btn-dark w-100">Add to Cart</button>
       </div>
     </div>
+    <div class="row g-4 mt-3">
     <div class="col-md-3">
       <div class="product-card p-3">
         <img src="C:\Users\newba\OneDrive\文件\rose.jpg" class="w-100 mb-2">
@@ -106,7 +107,7 @@
         <button class="btn btn-dark w-100">Add to Cart</button>
     </div>
     </div>
-    <div class="container my-5">
+  
 
   <div class="row g-4 mt-3">
     <div class="col-md-3">
@@ -120,6 +121,7 @@
     <div class="container my-5">
 
 
+    <div class="row g-4 mt-3">
     <div class="col-md-3">
       <div class="product-card p-3">
         <img src="C:\Users\newba\OneDrive\文件\pink.jpg" class="w-100 mb-2">
